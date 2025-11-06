@@ -24,7 +24,6 @@ El objetivo principal es ofrecer una herramienta integral para que los usuarios 
 - 🎯 Fijación de objetivos físicos (por ejemplo: bajar de peso, ganar masa muscular, mantener el peso)
 - 🥗 Creación automática de un plan alimenticio basado en los objetivos del usuario
 - 📂 Carga de una base de datos personalizada con alimentos propios
-- 🏋️ Generación de una rutina de ejercicios adaptada al perfil y meta del usuario
 
 ---
 
@@ -42,11 +41,13 @@ Proyecto desarrollado por:
 
 ## 🌱 Estado del proyecto
 
-🚧 En desarrollo — nuevas funcionalidades y mejoras serán añadidas próximamente.
+🚧 En desarrollo — nueva funcionalidad próximamente.
+- 🏋️ Generación de una rutina de ejercicios adaptada al perfil y meta del usuario
 
 ---
 
 ## 📸 Vista general
+<img width="1556" height="768" alt="image" src="https://github.com/user-attachments/assets/108f59b9-5340-4f7e-b8bb-87537f1a2d15" />
 
 ---
 
