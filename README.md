@@ -46,4 +46,7 @@ Proyecto desarrollado por:
 
 ---
 
+## 📸 Vista general
+
+https://gemini.google.com/share/d983705b9cf9
 
