@@ -46,9 +46,4 @@ Proyecto desarrollado por:
 
 ---
 
-## 📸 Vista general
-<img width="1556" height="768" alt="image" src="https://github.com/user-attachments/assets/108f59b9-5340-4f7e-b8bb-87537f1a2d15" />
-
----
-
 
